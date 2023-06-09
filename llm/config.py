@@ -15,7 +15,7 @@ extraction_path = "/content/drive/MyDrive/prognosis/prognosis.jsonl" #REPO_DIR /
 min_length = 100
 
 # HF repo
-hf_repo = "prognosis/llm-pdf-chunks-qa-mix"
+hf_repo = "prognosis/llm-pdf-chunks"
 
 # Dataset
 context_length = 2048
